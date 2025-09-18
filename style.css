@@ -1,0 +1,40 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: blueviolet;
+    text-align: center;
+
+}
+
+h2 {
+    font-size: 20 px;
+    text-align: center;
+    
+}
+
+h4 {
+    color:rgb(110, 34, 182) 
+    
+    
+}
+
+.bios {
+    text-align: center;
+    justify-content: center;
+}
+
+footer {
+    text-align: center;
+    font-size: 10 px;
+    background-color: rgb(189, 186, 191);
+}
+
+.textZ, .textS, .textC {
+    // background-color: rgb(110, 34, 182)  !important;
+}
+
+* {
+    background-color: rgba(226, 226, 226, 0.91);
+}
+h5 {
+    color: rgb(110, 34, 182);
+}
